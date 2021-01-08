@@ -1,4 +1,5 @@
 import './App.css';
+import Navbar from './Navbar';
 //import Counter from './Counter';
 //import Hello from './Hello';
 
@@ -10,7 +11,7 @@ function App() {
   //  <div>
   //    <Counter/>
   //  </div>
-    <h1>Hello!</h1>
+    <Navbar />
   );
 }
 
